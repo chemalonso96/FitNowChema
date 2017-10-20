@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FitNowChema</string>
+    <string name="title_workout">Workout</string>
+    <string name="title_plans">Plans</string>
+    <string name="title_find">Find</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
